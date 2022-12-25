@@ -1,22 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.fe2dc6ce.js",
-    "static/js/498.bfe1b6c5.chunk.js": "/static/js/498.bfe1b6c5.chunk.js",
-    "static/js/703.34111a73.chunk.js": "/static/js/703.34111a73.chunk.js",
-    "static/js/258.1deccd9e.chunk.js": "/static/js/258.1deccd9e.chunk.js",
-    "static/js/787.a06e5209.chunk.js": "/static/js/787.a06e5209.chunk.js",
-    "static/media/logo.png": "/static/media/logo.6828f72b379cc6f55eaa.png",
+    "main.js": "/static/js/main.8a28dedf.js",
+    "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
+    "static/media/digivice_icon.png": "/static/media/digivice_icon.609aa455be560b6ab14b.png",
+    "static/media/PileVolcamon.png": "/static/media/PileVolcamon.e8eac8586961f94057d1.png",
+    "static/media/demiMeramon.png": "/static/media/demiMeramon.391fe16edb5c5efe0089.png",
+    "static/media/tokomon.png": "/static/media/tokomon.ca31ee17badf5e80c8f6.png",
+    "static/media/gaossmon.png": "/static/media/gaossmon.01bd549657be608d1fb1.png",
+    "static/media/pokeball_icon.png": "/static/media/pokeball_icon.774abbafa8d08b174185.png",
+    "static/media/aerodactyl.png": "/static/media/aerodactyl.66c3a2126715734553cc.png",
+    "static/media/gengar.png": "/static/media/gengar.152d23680a1c21b88a71.png",
+    "static/media/arcanine.jpg": "/static/media/arcanine.a6e91000ffd520acad95.jpg",
+    "static/media/vaporeon.jpg": "/static/media/vaporeon.86f59937fb4caa6cf627.jpg",
+    "static/media/chesnaught.jpg": "/static/media/chesnaught.1f2bde1cc86214368673.jpg",
+    "static/media/vulpix_de_alola.jpg": "/static/media/vulpix_de_alola.5e824b44648d24524ca8.jpg",
+    "static/media/lugiaV.jpg": "/static/media/lugiaV.3be957570dab367dc71d.jpg",
+    "static/media/brejo.jpg": "/static/media/brejo.8fb6a04b45b5dfa53b71.jpg",
+    "static/media/pikachu.jpg": "/static/media/pikachu.74453e6d43489eb7e27d.jpg",
+    "static/media/archen.jpg": "/static/media/archen.9a44f264e90929559872.jpg",
+    "static/media/brandon.jpg": "/static/media/brandon.cf116bdee1199a438e60.jpg",
+    "static/media/espurr.jpg": "/static/media/espurr.ac408b9673d5adf7528d.jpg",
+    "static/media/pokemon_cover.png": "/static/media/pokemon_cover.53f18fe071b89a41cbd3.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.fe2dc6ce.js.map": "/static/js/main.fe2dc6ce.js.map",
-    "498.bfe1b6c5.chunk.js.map": "/static/js/498.bfe1b6c5.chunk.js.map",
-    "703.34111a73.chunk.js.map": "/static/js/703.34111a73.chunk.js.map",
-    "258.1deccd9e.chunk.js.map": "/static/js/258.1deccd9e.chunk.js.map",
-    "787.a06e5209.chunk.js.map": "/static/js/787.a06e5209.chunk.js.map"
+    "main.8a28dedf.js.map": "/static/js/main.8a28dedf.js.map",
+    "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fe2dc6ce.js"
+    "static/js/main.8a28dedf.js"
   ]
 }
